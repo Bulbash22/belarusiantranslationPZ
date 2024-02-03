@@ -18,7 +18,7 @@ Sandbox_BE = {
     Sandbox_ZombieDistribution_option1 = "Населеныя пункты",
     Sandbox_ZombieDistribution_option2 = "Аднамернае",
     Sandbox_Advanced = "Пашыраныя...",
-    Sandbox_ZombieOptions = "НАЛАДЫ МЕРЦЬВЯКОЎ",
+    Sandbox_ZombieOptions = "НАЛАДЫ ЗОМБІ",
     --
     Sandbox_TimeOptions = "ЧАС",
     Sandbox_DayLength = "ПРАЦЯГЛАСЬЦЬ ДНЯ:",
