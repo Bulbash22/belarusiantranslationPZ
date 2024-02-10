@@ -15,7 +15,7 @@ Stash_BE = {
 
     Stash_LVMap4_Text1 = "ня дбай, толькі час тута змарнаваў",
     Stash_LVMap4_Text2 = "трэ ўзяць молат",
-    Stash_LVMap4_Text4 = "бэнзынавая станцыя",
+    Stash_LVMap4_Text4 = "паліўная станцыя",
 
     Stash_LVMap5_Text1 = "Карліны ўвезьлі Дэбі сюды",
     Stash_LVMap5_Text2 = "Зьвяртайся, калі трэба памагчы!",
@@ -253,7 +253,7 @@ Stash_BE = {
     Stash_RiversideStashMap8_Text3 = "тут я бачыў той гурт людзей (мага, што ўжо мёртвых).",
 
     Stash_RiversideStashMap9_Text1 = "Тут нас чакае Тон",
-    Stash_RiversideStashMap9_Text2 = "бэнзын",
+    Stash_RiversideStashMap9_Text2 = "паліва",
     Stash_RiversideStashMap9_Text3 = "D укусілі, але несур'ёзна - патрэбныя антыбіётыкі абы былі",
 
     Stash_RiversideStashMap10_Text1 = "банк", 
@@ -287,7 +287,7 @@ Stash_WorldMap2_Text1 = "Добрае месца для базы, аддален
 Stash_WorldMap2_Text11 = "па прыбыцьці спачатку забарыкадуйцеся!",
 Stash_WorldMap2_Text12 = "унутры я схаваў зброю",
 
-Stash_WorldMap3_Text1 = "тут бэнзын",
+Stash_WorldMap3_Text1 = "тут паліва",
 Stash_WorldMap3_Text11 = "ён табе спатрэбіцца",
 
 Stash_WorldMap4_Text1 = "Тут, са словаў Яны, жыла тая жанчына.",
@@ -295,13 +295,13 @@ Stash_WorldMap4_Text11 = "Мо яна нам дапаможа?",
 
 Stash_WorldMap5_Text1 = "Полі кінула тут рэчы",
 Stash_WorldMap5_Text11 = "Аглядзіцеся, перад тым як ўвайсьці",
-Stash_WorldMap5_Text12 = "і спаліце гэтую чортаву мапу!!!",
+Stash_WorldMap5_Text12 = "і спаліце гэту чортаву мапу!!!",
 
 Stash_WorldMap6_Text1 = "добрыя рэчы",
-Stash_WorldMap6_Text2 = "заставацца тут немагчыма. узяць рэчы і сысьці",
+Stash_WorldMap6_Text2 = "заставацца тут немагчыма. узяць рэчы і бяжаць",
 Stash_WorldMap6_Text3 = "Эндзі",
 
-Stash_WorldMap7_Text1 = "наліць бэнзыну тут",
+Stash_WorldMap7_Text1 = "наліць паліва тут",
 Stash_WorldMap7_Text2 = "dixie повен зомбі",
 Stash_WorldMap7_Text21 = "адкуль яны там?",
 
@@ -314,12 +314,12 @@ Stash_WorldMap9_Text2 = "паўсюль скрыні, якія могуць бы
 Stash_WorldMap8_Text3 = "офісы, нічога",
 Stash_WorldMap8_Text4 = "сховішчы?",
 
-Stash_WorldMap10_Text1 = "БЭНЗЫНАВАЯ СТАНЦЫЯ",
+Stash_WorldMap10_Text1 = "ПАЛІЎНАЯ СТАНЦЫЯ",
 Stash_WorldMap10_Text2 = "КРАМА АДЗЕНЬНЯ",
 Stash_WorldMap10_Text3 = "SPIFFO'S",
 Stash_WorldMap10_Text4 = "САМАХОДЫ",
 
-Stash_WorldMap11_Text1 = "Талерка 3 на вежы 2 - губляе сыгналь каля 6 ГГц - праблема з электрычнасьцю",
+Stash_WorldMap11_Text1 = "Талерка 3 на вежы 2 - губляе сыгнал каля 6 ГГц - праблема з электрычнасьцю",
 Stash_WorldMap11_Text11 = "Адвязу ў штаб для тэставаньня з Лэксынгтанам",
 
 Stash_WorldMap12_Text1 = "ВЯЛІКІ кемпінг - усё, што трэба (апрача таблеткаў для Джэйн)",
