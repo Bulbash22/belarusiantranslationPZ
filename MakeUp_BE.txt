@@ -1,6 +1,6 @@
 MakeUp_BE = {
     MakeUpCategory_Eyes = "Вочы",
-    MakeUpCategory_EyesShadow = "Цені для павекаў",
+    MakeUpCategory_EyesShadow = "Цені для павек",
     MakeUpCategory_FullFace = "Увесь твар",
     MakeUpCategory_Lips = "Вусны",
     MakeUpType_EyeShadowBlue = "Сінія цені",
