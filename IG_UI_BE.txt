@@ -133,9 +133,9 @@ IGUI_BE = {
 	IGUI_perks_Fitness = "Фізычны стан",
 	IGUI_perks_Electricity = "Электроніка",
 	IGUI_perks_Mechanics = "Аўтамэханіка",
-	IGUI_perks_Blacksmith = "Каваль",
-	IGUI_perks_MetalWelding = "Газавая літоўка",
-	IGUI_perks_Metalworking = "Газавая літоўка",
+	IGUI_perks_Blacksmith = "Кавальства",
+	IGUI_perks_MetalWelding = "Спайка",
+	IGUI_perks_Metalworking = "Спайка",
 	IGUI_perks_Melting = "Тапленьне",
 	-- Item category
 	IGUI_ItemCat_Item = "Прадмет",
